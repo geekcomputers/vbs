@@ -1,5 +1,5 @@
 # VBS
-VBS Scripts and snippets#
+VBS Scripts and snippets
 
 Here is a short summary of all the files and what they do.
 
